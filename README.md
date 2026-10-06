@@ -38,8 +38,19 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=amrix-eg&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=amrix-eg&theme=algolia&hide_border=false)<br/>
+
+<img src="Rix3.png" width="410" align="right" style="margin-top: 75px;">
+
+<div align="left">
+
+<img src="https://github-readme-stats.shion.dev/api?username=amrix-eg&theme=algolia&hide_border=false&include_all_commits=true&count_private=false" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=amrix-eg&theme=algolia&hide_border=false" />
+
+</div>
+
 
 ---
 [![Profile Views](https://komarev.com/ghpvc/?username=amrix-eg&color=007bff&icon=eye)](https://visitcount.itsvg.in)
