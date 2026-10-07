@@ -51,7 +51,7 @@
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge\&logo=Keras\&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge\&logo=TensorFlow\&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge\&logo=netlify\&logoColor=white)
 
-# 📊 GitHub Stats
+# 📉 GitHub Stats
 
 <img src="Rix4.png" width="320" align="right" style="transform: translateY(70px);">
 
