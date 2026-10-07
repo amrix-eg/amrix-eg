@@ -1,16 +1,19 @@
-<img src="Banner.png" width="50%">
+<div align="center">
+  <img src="Banner.png" width="50%">
+</div>
 
-# ⚡ Amrix — Digital Solutions
 
-**We build digital experiences that turn ideas into reality.**
+## 💙 Amrix - Digital Solutions, Built to Scale.
 
-🌐 Websites & Web Apps
-🤖 Discord • Telegram • WhatsApp Bots
-💼 Portfolios & Business Solutions
-⚙️ Automation & Custom Systems
+**We transform ideas into modern digital products built to perform, scale, and grow.**
+
+🌐 Websites & Web Applications<br>
+🤖 Discord, Telegram & WhatsApp Bots<br>
+💼 Business Websites & Digital Portfolios<br>
+⚙️ Automation & Custom Systems<br>
 🎨 Modern UI/UX & Digital Experiences
 
-> **Build. Automate. Scale.**
+> **Build. Innovate. Scale.**
 
 ## 🌐 Connect With Us
 
