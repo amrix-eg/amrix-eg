@@ -53,7 +53,7 @@
 
 # 📊 GitHub Stats
 
-<img src="Rix3.png" width="410" align="right" style="margin-top: 75px;">
+<img src="Rix3.png" width="300" align="right" style="margin-top: 75px;">
 
 <div align="left">
 
