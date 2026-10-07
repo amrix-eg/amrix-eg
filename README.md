@@ -25,10 +25,10 @@
 
 ## 👑 Founders
 
-* **Raed Mosaed — (CEO)**
-* **Ahmed Tarek — (CTO)**
-* **Ali Mahmoud — (HR)**
-* **Mohamed Samir —(Manager)**
+* **[Raed Mosaed](https://github.com/amrix-eg) - (CEO)**
+* **[Ahmed Tarek](https://github.com/amrix-eg) - (CTO)**
+* **[Ali Mahmoud](https://github.com/amrix-eg) - (HR)**
+* **[Mohamed Samir](https://github.com/amrix-eg) - (Manager)**
 
 # 💻 Tech Stack
 
