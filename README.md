@@ -25,7 +25,7 @@
 
 ## 👑 Founders
 
-* **[Raed Mosaed](https://github.com/amrix-eg) - (CEO)**
+* **[Raed Mosaed](https://github.com/raedmosaed0) - (CEO)**
 * **[Ahmed Tarek](https://github.com/midotarek14) - (CTO)**
 * **[Ali Mahmoud](https://github.com/aliff747447) - (HR)**
 * **[Mohamed Samir](https://github.com/PrimeDevX) - (Manager)**
