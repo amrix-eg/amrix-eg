@@ -2,7 +2,6 @@
   <img src="Banner.png" width="50%">
 </div>
 
-
 ## 💙 Amrix - Digital Solutions, Built to Scale.
 
 **We transform ideas into modern digital products built to perform, scale, and grow.**
@@ -23,6 +22,13 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok\&logoColor=white)](https://www.tiktok.com/@amrix.eg)
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram\&logoColor=white)](https://t.me/amrix_eg)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord\&logoColor=white)](https://discord.com/users/1551248941352489010)
+
+## 👑 Founders
+
+* **Raed Mosaed — (CEO)**
+* **Ahmed Tarek — (CTO)**
+* **Ali Mahmoud — (HR)**
+* **Mohamed Samir —(Manager)**
 
 # 💻 Tech Stack
 
