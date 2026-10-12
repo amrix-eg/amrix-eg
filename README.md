@@ -62,7 +62,7 @@
 
 # 📉 GitHub Stats
 
-<img src="Rix4.png" width="320" align="right" style="transform: translateY(70px);">
+<img src="Rix.png" width="320" align="right" style="transform: translateY(70px);">
 
 <div align="left">
 
