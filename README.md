@@ -76,4 +76,4 @@
 
 ---
 
-[![Profile Views](https://komarev.com/ghpvc/?username=amrix-eg\&color=007bff\&icon=eye)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=amrix-eg&color=007bff&style=flat&label=Profile%20Views)](https://visitcount.itsvg.in)
